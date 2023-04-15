@@ -11,20 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Jour J"
       section: services
-    - title: "Portfolio"
+    - title: "Les mariés"
       section: portfolio
-    - title: "About"
+    - title: "Nous soutenir"
       section: about
-    - title: "Timeline"
+    - title: "Notre histoire"
       section: timeline
-    - title: "Team"
+    - title: "Nos majors"
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

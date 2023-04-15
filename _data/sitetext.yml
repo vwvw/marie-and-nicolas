@@ -13,23 +13,23 @@ en: &DEFAULT_EN
   header:
     title: 30 septembre 2023
     text: On se marie !
-    button: icon
-    buttonlink: "#services"
 
   services:
     title: "La journée du 30 septembre"
-    text: "Lorem ipsum"
+    text: "On se réjouit VRAIMENT de vous voir"
     section: services
     list:
       - title: "Cérémonie"
-        desc: "Notre mariage sera célébré à 14h au temple de Cossonay"
+        desc: "Notre mariage sera célébré à 14h00 au temple de Cossonay.<br>Pour le parking, c'est par [ici](parking)!"
         icon: fas fa-church #find more at https://fontawesome.com/icons
       - title: "Apéro"
-        desc: "[Grande salle du battoir de Goumoens-la-Ville](https://goo.gl/maps/1PdJwLcgRcYSLiP16)"
+        desc: "On continuera la fête à la [Grande salle du battoir de Goumoens-la-Ville](https://goo.gl/maps/1PdJwLcgRcYSLiP16)"
         icon: fas fa-cookie-bite
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-champagne-glasses
+      - title: "Souper"
+        desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la 
+        grande salle de Suchy. Pour confirmer votre présence, c'est par [ici](google forms)." 
+
+        icon: fa-solid fa-champagne-glasses
 
   portfolio:
     title: "Mais qui sommes nous???"
@@ -46,34 +46,50 @@ en: &DEFAULT_EN
     events:
       - title: "Naissance"
         year: "1994-1997"
-        desc: "Il n'y avait que l'Orbe qui coulait entre Lignerolles et Vallorbe pour nous séparer. Malheureusement les parents Badoux voulurent prendre le dessus et déménagèrent à la Vallée de Joux en 1999."
+        desc: "Il n'y avait que l'Orbe qui coulait entre Lignerolles et Vallorbe pour nous 
+        séparer. Malheureusement les parents Badoux voulurent prendre le dessus et 
+        déménagèrent à la Vallée de Joux en 1999."
+
         image: assets/img/timeline/1.jpg
         alt: Que de beaux bébés
       - title: "10 février 2021"
         year: "Un bilan bien neutre"
         # c'est pas très clair comme phrase
-        desc: "Par un après-midi nuageux, ils clarifièrent communément le statut de leur relation au travers d’un bilan d’amitiés, et restèrent amis."
+        desc: "Par un après-midi nuageux, ils clarifièrent communément le statut de leur 
+        relation au travers d’un bilan d’amitiés, et restèrent amis."
+
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Le temps fit bien les choses"
         year: "Juin 2021"
-        desc: "Ils se laissèrent l’opportunité d’apprendre à mieux se connaître par des rencontres à deux et se promirent de se fixer d’ici la fin de l’été."
+        desc: "Ils se laissèrent l’opportunité d’apprendre à mieux se connaître par des 
+        rencontres à deux et se promirent de se fixer d’ici la fin de l’été."
+
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Mauvaise météo"
         year: "31 juillet 2021"
-        desc: "La fin de l’été étant arrivée plus vite que prévue, ils prirent l’heureuse décision de se mettre en couple."
+        desc: "La fin de l’été étant arrivée plus vite que prévue, ils prirent l’heureuse 
+        décision de se mettre en couple."
+        
         image: assets/img/timeline/4.jpg
         alt:
       - title: "Au sommet !"
         year: "24 août 2022"
-        desc: "Par un mercredi de rentrée scolaire, Nicolas organisa une demande en fiançailles rythmée par un jeu de piste à suspens entre Cossonay, Vallorbe, la Dent de Vaulion et le lac de joux. Mais c’est au sommet du Mont Tendre, que Marie, éprouvée par sa journée, mais réjouie par son tendre qui lui tendait une bague, lui dit “oui” !"
+        desc: "Par un mercredi de rentrée scolaire, Nicolas organisa une demande en 
+        fiançailles rythmée par un jeu de piste à suspens entre Cossonay, Vallorbe, la 
+        Dent de Vaulion et le lac de Joux. Mais c’est au sommet du Mont Tendre, que Marie, 
+        éprouvée par sa journée, mais réjouie par son tendre qui lui tendait une bague, 
+        lui dit “oui” !"
+
         image: assets/img/timeline/5.jpg
         alt:
       - title: "Le début d'une nouvelle ère"
         year: "30 septembre 2023"
-        desc: "Ils célébrèront leur mariage devant Dieu, entourés de leurs proches et des gens qu’ils aiment."
-        image: assets/img/timeline/6.jpg 
+        desc: "Ils célébrèront leur mariage devant Dieu, entourés de leurs proches et des 
+        gens qu’ils aiment."
+        
+        image: assets/img/timeline/6.jpg
         # dessin de Svenja
         alt:
         # you can enforce the alignment
@@ -81,29 +97,18 @@ en: &DEFAULT_EN
     end: "On se<br>réjouit<br>de la suite!"
 
   about:
-    title: "Qui sommes nous?"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Nous soutenir"
+    text: "La liste de mariage tant demandée!"
+    body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
+    débuts de jeunes mariés, voici une liste de mariage avec nos coordonnées bancaires. 
+    Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
+    d’effectuer nous-mêmes les achats."
     section: about
-
-  clients:
-    section: clients
-    max-height: 500px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Nos majors"
-    text: "Ils ont toutes les infos, ou tout du omins la capacité de bluffer et d'improviser si ce n'est pas le cas!"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Ils ont toutes les infos, ou tout du moins la capacité de bluffer et d'improviser si ce n'est pas le cas!"
+    subtext: "Vous avez à cœur de nous faire bénéficier de vos talents artistiques, de vos plus beaux sketchs, d’une animation personnalisée: vous pouvez donc contacter nos majors de table !"
     section: team
     people:
       - name: "Jérémie Bideaux"

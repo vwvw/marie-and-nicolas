@@ -20,6 +20,10 @@
     &:hover {
       color: darken($primary, 10%);
     }
+    img {
+      -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+              filter: invert(100%);
+    }
   }
   .navbar-nav {
     .nav-item {
@@ -52,11 +56,16 @@
       -webkit-transition: all 0.3s;
       -moz-transition: all 0.3s;
       transition: all 0.3s;
+      img {
+        -webkit-filter: initial; /* safari 6.0 - 9.0 */
+                filter: initial;
+      }
     }
     .navbar-nav {
       .nav-item {
         .nav-link {
           padding: 1.1em 1em !important;
+          color: $gray-900;
         }
       }
     }
@@ -65,9 +74,20 @@
       padding-bottom: 0;
       background-color: $gray-900;
       .navbar-brand {
+        img {
+          -webkit-filter: invert(100%); /* safari 6.0 - 9.0 */
+                  filter: invert(100%);
+        }
         font-size: 1.25em;
         padding: 12px 0;
       }
+     .navbar-nav {
+       .nav-item {
+         .nav-link {
+           color: white;
+         }
+       }
+     }
     }
   }
 }
