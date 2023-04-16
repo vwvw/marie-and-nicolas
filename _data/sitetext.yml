@@ -36,6 +36,12 @@ en: &DEFAULT_EN
     text: "Histoire d'en savoir un peu plus !"
     section: portfolio
     closebutton: "Retour"
+  
+  list:
+    title: "Notre liste de mariage"
+    text: "elle est là"
+    section: list
+    closebutton: "Retour"
 
   timeline:
     title: "Notre histoire"
