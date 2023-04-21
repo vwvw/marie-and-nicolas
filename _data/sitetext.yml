@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 30 septembre 2023
-    text: On se marie !
+    text: On se marie&nbsp;!
 
   services:
     title: "La journée du 30 septembre"

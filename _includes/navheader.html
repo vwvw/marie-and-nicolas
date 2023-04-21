@@ -48,7 +48,10 @@
   <!-- Header -->
   {% if site.locale and site.locale != "" and site.locale != nil %}
   <header class="masthead">
-    <div class="container2">
+    <div class="video-container">
+      <video autoplay muted loop>
+        <source src="{{ site.header-video }}" type="video/webm" />
+      </video>
       <div class="intro-text">
 	  {%- if site.data.sitetext[site.locale].header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
@@ -64,7 +67,7 @@
   </header>
   {% else %}
   <header class="masthead">
-    <div class="container">
+    <div class="video-container">
       <div class="intro-text">
 	  {%- if site.data.sitetext.header.title -%}
         <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>

@@ -23,6 +23,7 @@ author     : Marie Laffely & Nicolas Badoux
 logo:     #optional, defaults to site title
   path: assets/img/logo.svg
   height: 60 #height in px, defaults to 52px
+header-video: "assets/img/header.webm"
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
