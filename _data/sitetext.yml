@@ -110,6 +110,27 @@ en: &DEFAULT_EN
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
     section: about
+  remerciement:
+    title: "Remerciements"
+    text: "Si c'est nous qui nous nous marions, nous sommes bien accompagnés!"
+    list:
+        - title: "Sylvain Kaufmann"
+          position: "Les rumeurs disent qu'ils ne reverra jamais sa casserole qui contenu de la cire"
+        - title: "Nos parents"
+          position: "Un support permanent ces dernières années"
+        - title: "Maëlle Badoux"
+          position: "Pour les fautes d'orthographe"
+        - title: "Lise Laffely"
+          position: "Ne pas avoir mangé tout les chocolats des fairt-parts"
+        - title: "Marc Zürcher"
+          position: "Pour avoir mis ses grandes mains au service d'une petite cause"
+        - title: "Tabea & Rachel Suter (et peut-être un jour Luc Badoux)"
+          position: "Un oeil artistique pour complémenter l'esprit cartésien de Nicolas lors de la confection des fairt-parts et de la déco"
+        - title: "Dieu"
+          position: "Parce qu'il y a une source à notre amour"
+        - title: "Floriane Giliand"
+          position: "Voiture balai qui cette fois j'espère nous prendra en autostop!"
+
 
   team:
     title: "Nos majors"
@@ -117,7 +138,7 @@ en: &DEFAULT_EN
     subtext: "Vous avez à cœur de nous faire bénéficier de vos talents artistiques, de vos plus beaux sketchs, d’une animation personnalisée: vous pouvez donc contacter nos majors de table !"
     section: team
     people:
-      - name: "Jérémie Bideaux"
+      - name: "Jérémie Bidaux"
         role: "Colocataire tellement apprécié qu'il est même invité en vacances"
         image: assets/img/team/jer.jpg
         social:
@@ -143,19 +164,20 @@ en: &DEFAULT_EN
             icon: fas fa-phone
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Inscription pour le souper"
+    text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence via ce formulaire.<br>"
     section: contact
-    name: "Name*"
+    name: "Nom*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Numéro de téléphone"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
+    invite: "Nombre de convives*"
+    invite-validation: "Merci d'entrer le nombre de personnes venant au souper"
+    message: "Allergies ou autre message"
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Je réserve mon dessert!"
 
   footer:
     legal: "Privacy Policy"

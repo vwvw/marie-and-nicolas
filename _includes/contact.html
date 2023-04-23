@@ -6,7 +6,13 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">
           {{ site.data.sitetext[site.locale].contact.title | markdownify | default: Contact Us }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</h3>
+
+
+        <div class="row justify-content-center">
+        <div class="col col-lg-6">
+          <h3 class="section-subheading text-uppercase ">{{ site.data.sitetext[site.locale].contact.text | default: "" }}</h3>
+        </div>
+        </div>
       </div>
     </div>
     <div class="row">
@@ -38,9 +44,14 @@
             </div>
             <div class="col-md-6">
               <div class="form-group">
-                <textarea name="message" class="form-control" id="message"
-                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Message*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.message-validation | default: "Please enter a message." }}"></textarea>
+                <input name="invite" class="form-control" id="invite" type="number"
+                  placeholder="{{ site.data.sitetext[site.locale].contact.invite | default: "Nombres de convives*" }}"
+                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.invite-validation | default: "Merci d\'entrer le nombre de personnes venant au souper.'." }}">
+                <p class="help-block text-danger"></p>
+              </div>
+              <div class="form-group">
+                <input name="message" class="form-control" id="message" type="text"
+                  placeholder="{{ site.data.sitetext[site.locale].contact.message | default: "Allergie ou autre message" }}">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
