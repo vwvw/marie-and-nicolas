@@ -118,6 +118,8 @@ en: &DEFAULT_EN
           position: "Les rumeurs disent qu'ils ne reverra jamais sa casserole qui contenu de la cire"
         - title: "Nos parents"
           position: "Un support permanent ces dernières années"
+        - title: "Julien Lamour"
+          position: "Sans lui, le fairt-part aurait été agrémenté d'un selfie un peu sombre et mal cadré!"
         - title: "Maëlle Badoux"
           position: "Pour les fautes d'orthographe"
         - title: "Lise Laffely"
