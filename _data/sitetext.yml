@@ -85,6 +85,11 @@ en: &DEFAULT_EN
 
         image: assets/img/timeline/5.jpg
         alt:
+      - title: "Un premier chez nous"
+        year: "Eté-automne 2023"
+        desc: "Nous sommes encore à la recherche d'un endroit où s'établir dans la région de Bussigny/Cossonay, mais promis, on vous tiendra au courant de l'adresse!"
+        image: assets/img/timeline/7.jpg
+        alt:
       - title: "Le début d'une nouvelle ère"
         year: "30 septembre 2023"
         desc: "Ils célébrèront leur mariage devant Dieu, entourés de leurs proches et des 
@@ -95,11 +100,11 @@ en: &DEFAULT_EN
         # dessin de Svenja
         alt:
         # you can enforce the alignment
-        align: right
+        align: left
     end: "On se<br>réjouit<br>de la suite!"
 
   about:
-    title: "Nous soutenir"
+    title: "[Nous soutenir](/liste)"
     text: "La liste de mariage tant demandée!"
     body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
     débuts de jeunes mariés, voici une [liste de mariage](/liste) avec nos coordonnées bancaires. 

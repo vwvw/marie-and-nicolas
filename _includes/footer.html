@@ -3,10 +3,27 @@
   <div class="container">
     {% if site.locale and site.locale != "" and site.locale != nil %}
     <div class="row align-items-center">
-      <div class="col-md-4">
-        <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
-        >
+      <div class="col-md-3"></div>
+      <div class="col-md-3">
+          Marie Laffely<br>
+          <a href="tel:+41774346316">+41 77 434 63 16</a><br>
+          <a href="mailto:m.laffely@gmail.com">m.laffely@gmail.com</a><br>
+          Chemin du Chalet 3<br>
+          1304 Cossonay-Ville<br>
+            <a href="https://instagram.com/mar_laf">
+              <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+      <div class="col-md-3">
+          Nicolas Badoux<br>
+          <a href="tel:+41799140047">+41 79 914 00 47</a><br>
+          <a href="mailto:n.badoux@hotmail.com">n.badoux@hotmail.com</a><br>
+          Chemin des Charmilles 10 <br>
+          1008 Prilly<br>
+            <a href="https://instagram.com/n.badoux">
+              <i class="fab fa-instagram"></i>
+            </a>
+      </div>
       </div>
       <!-- Social Media -->
       <div class="col-md-4">
@@ -22,24 +39,29 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Legal -->
-      <div class="col-md-4">
-        <ul class="list-inline quicklinks">
-          <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext[site.locale].footer.legal | default:
-              "Privacy Policy" }}</a
-            >
-          </li>
-        </ul>
-      </div>
     </div>
     {% else %}
     <div class="row align-items-center">
-      <div class="col-md-4">
-        <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
-        >
+      <div class="col-md-3"></div>
+      <div class="col-md-3">
+          Marie Laffely<br>
+          <a href="tel:+41774346316">+41 77 434 63 16</a><br>
+          <a href="mailto:m.laffely@gmail.com">m.laffely@gmail.com</a><br>
+          Chemin du Chalet 3<br>
+          1304 Cossonay-Ville<br>
+            <a href="https://instagram.com/mar_laf">
+              <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+      <div class="col-md-3">
+          Nicolas Badoux<br>
+          <a href="tel:+41799140047">+41 79 914 00 47</a><br>
+          <a href="mailto:n.badoux@hotmail.com">n.badoux@hotmail.com</a><br>
+          Chemin des Charmilles 10 <br>
+          1008 Prilly<br>
+            <a href="https://instagram.com/n.badoux">
+              <i class="fab fa-instagram"></i>
+            </a>
       </div>
       <!-- Social Media -->
       <div class="col-md-4">
