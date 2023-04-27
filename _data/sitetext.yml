@@ -37,17 +37,6 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Retour"
   
-  list:
-    title: "Notre liste de mariage"
-    text: "elle est là"
-    list:
-      - title: Congélateur
-        subtitle: 800CHF
-        thumbnail: assets/img/liste/congélateur.jpg
-      - title: Congélateur
-        subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
-        thumbnail: assets/img/liste/congélateur.jpg
-    closebutton: "Retour"
 
   timeline:
     title: "Notre histoire"
@@ -144,7 +133,8 @@ en: &DEFAULT_EN
   team:
     title: "Nos majors"
     text: "Ils ont toutes les infos, ou tout du moins la capacité de bluffer et d'improviser si ce n'est pas le cas!"
-    subtext: "Vous avez à cœur de nous faire bénéficier de vos talents artistiques, de vos plus beaux sketchs, d’une animation personnalisée: vous pouvez donc contacter nos majors de table !"
+    subtext: "Vous avez à cœur de nous faire bénéficier de vos talents artistiques, de vos plus beaux sketchs,
+    d’une animation personnalisée: vous pouvez donc contacter nos majors de table !"
     section: team
     people:
       - name: "Jérémie Bidaux"
@@ -187,6 +177,48 @@ en: &DEFAULT_EN
     message: "Allergies ou autre message"
     subject: "Contact Form Submission"
     submit: "Je réserve mon dessert!"
+
+  list:
+    title: "Notre liste de mariage"
+    text: "Nous nous chargerons des achats, mais vous pouvez contribuer via:
+    <br> le Twint de Nicolas [+41 79 914 00 47](tel:+41 79 914 00 47), 
+    <br> celui de Marie [+41 77 434 63 16](tel:+41 77 434 63 16), 
+    <br> ou directement via l'IBAN `CH07 0024 3243 3453 3640 W` (Nicolas Badoux)"
+    list:
+      - title: Congélateur
+        subtitle: 800CHF de faire du stock et plaisir à Nicolas
+        thumbnail: assets/img/liste/congélateur.jpg
+      - title: Armoire à habits
+        subtitle: 800CHF pour une grande armoire à habits (pas de stock prévu dedans celle-ci!)
+        thumbnail: assets/img/liste/armoire.webp
+      - title: Table à rallonge
+        subtitle: 400CHF Pour accueillir et nourrir dignement nos invités (tant qu'ils ne sont pas trop envahissant :-/)
+        thumbnail: assets/img/liste/table.jpg
+      - title: Services
+        subtitle: 50CHF pour des couteaux, fourchettes, cuillères en suffisance
+        thumbnail: assets/img/liste/service.jpg
+      - title: Accessoires de salle de bain
+        subtitle: 50CHF tapis de douche, rideaux de douche, poubelle, brosse à toilettes, ... 
+        thumbnail: assets/img/liste/salle-de-bain.jpg
+      - title: Paillason
+        subtitle: 10CHF pour ne pas détremper l'appartement !
+        thumbnail: assets/img/liste/paillasson.jpg
+      - title: Banc en bois
+        subtitle: 150CHF, avec ou sans les chocolats.
+        thumbnail: assets/img/liste/banc.jpg
+      - title: Nappe, serviettes et set de table
+        subtitle: 50CHF pour garnir une jolie table, possibilité de mettre plus pour la moto.
+        thumbnail: assets/img/liste/nappe.jpg
+      - title: LE Lit 
+        subtitle: 800CHF Pour un lit double avec un matelas et deux duvets
+        thumbnail: assets/img/liste/lit.webp
+      - title: Linges
+        subtitle: 30CHF Linges de bain
+        thumbnail: assets/img/liste/linge.jpg
+
+
+
+    closebutton: "Retour"
 
   footer:
     legal: "Privacy Policy"
