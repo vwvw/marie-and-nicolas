@@ -99,8 +99,9 @@ en: &DEFAULT_EN
       - title: "Le début d'une nouvelle ère"
         year: "30 septembre 2023"
         desc: "Ils célébrèront leur mariage devant Dieu, entourés de leurs proches et des 
-        gens qu’ils aiment."
-        
+        gens qu’ils aiment.
+        <br>*<q>Toute l'eau des océans ne suffirait pas à éteindre l'amour. Toute l'eau des fleuves serait incapable de l'emporter.</q>*
+        <br>Cantiques des Cantiques 8 v. 7"
         image: assets/img/timeline/6.jpg
         # dessin de Svenja
         alt:
