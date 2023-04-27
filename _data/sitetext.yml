@@ -47,7 +47,7 @@ en: &DEFAULT_EN
     events:
       - title: "Naissance"
         year: "1994-1997"
-        desc: "Il n'y avait que l'Orbe qui coulait entre Lignerolles et Vallorbe pour nous 
+        desc: "Il n'y avait que l'Orbe qui coulait entre Lignerolle et Vallorbe pour nous 
         séparer. Malheureusement les parents Badoux voulurent prendre le dessus et 
         déménagèrent à la Vallée de Joux en 1999."
 
@@ -113,26 +113,24 @@ en: &DEFAULT_EN
     section: about
   remerciement:
     title: "Remerciements"
-    text: "Si c'est nous qui nous nous marions, nous sommes bien accompagnés!"
+    text: "C'est bien entourés que nous nous marions !"
     list:
         - title: "Sylvain Kaufmann"
-          position: "Les rumeurs disent qu'ils ne reverra jamais sa casserole qui contenu de la cire"
+          position: "Les rumeurs disent qu'ils ne reverra jamais sa casserole qui contenait de la cire"
         - title: "Nos parents"
           position: "Un support permanent ces dernières années"
         - title: "Julien Lamour"
-          position: "Sans lui, le fairt-part aurait été agrémenté d'un selfie un peu sombre et mal cadré!"
-        - title: "Maëlle Badoux"
-          position: "Pour les corrections orthographiques du site internet"
+          position: "Sans lui, le faire-part aurait été agrémenté d'un selfie un peu sombre et mal cadré!"
         - title: "Lise Laffely"
-          position: "Ne pas avoir mangé tout les chocolats des fairt-parts"
+          position: "Ne pas avoir mangé tout les chocolats des faire-parts"
         - title: "Marc Zürcher"
-          position: "Pour avoir mis ses grandes mains au service d'une petite cause"
+          position: "Goûteur officiel des chocolats pour s'assurer d'empoisonner personne"
         - title: "Tabea & Rachel Suter (et peut-être un jour Luc Badoux)"
-          position: "Un oeil artistique pour complémenter l'esprit cartésien de Nicolas lors de la confection des fairt-parts et de la déco"
+          position: "Pour une team Déco de choc, ainsi qu'un oeil artistique pour complémenter l'esprit cartésien de Nicolas lors de la confection des faire-parts."
         - title: "Dieu"
           position: "Parce qu'il y a une source à notre amour"
         - title: "Floriane Giliand"
-          position: "Voiture balai qui cette fois j'espère nous prendra en autostop!"
+          position: "Voiture balai qui, on espère, nous prendra en autostop si on se retrouve à marcher au bord d'une route cantonale!"
 
 
   team:
