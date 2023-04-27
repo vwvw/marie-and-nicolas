@@ -40,7 +40,13 @@ en: &DEFAULT_EN
   list:
     title: "Notre liste de mariage"
     text: "elle est là"
-    section: list
+    list:
+      - title: Congélateur
+        subtitle: 800CHF
+        thumbnail: assets/img/liste/congélateur.jpg
+      - title: Congélateur
+        subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+        thumbnail: assets/img/liste/congélateur.jpg
     closebutton: "Retour"
 
   timeline:
@@ -106,7 +112,7 @@ en: &DEFAULT_EN
     title: "Nous soutenir"
     text: "La liste de mariage tant demandée!"
     body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
-    débuts de jeunes mariés, voici une liste de mariage avec nos coordonnées bancaires. 
+    débuts de jeunes mariés, voici une [liste de mariage](/liste) avec nos coordonnées bancaires. 
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
     section: about
@@ -121,7 +127,7 @@ en: &DEFAULT_EN
         - title: "Julien Lamour"
           position: "Sans lui, le fairt-part aurait été agrémenté d'un selfie un peu sombre et mal cadré!"
         - title: "Maëlle Badoux"
-          position: "Pour les fautes d'orthographe"
+          position: "Pour les corrections orthographiques du site internet"
         - title: "Lise Laffely"
           position: "Ne pas avoir mangé tout les chocolats des fairt-parts"
         - title: "Marc Zürcher"
