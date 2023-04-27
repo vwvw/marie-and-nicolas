@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Kenwood
+  subtitle: 700CHF pour notre assistant en cuisine
   thumbnail: assets/img/liste/congélateur.jpg
 ---

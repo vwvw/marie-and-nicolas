@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Étagère
+  subtitle: 50CHF pour un étagère à des fins de stockage (pour avoir toujours de tout!)
   thumbnail: assets/img/liste/congélateur.jpg
 ---

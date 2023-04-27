@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: LE Lit 
+  subtitle: 800CHF Pour un lit double avec un matelas et deux duvets
   thumbnail: assets/img/liste/congélateur.jpg
 ---

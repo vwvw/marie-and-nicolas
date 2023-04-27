@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Draps et housses de lit
+  subtitle: 100CHF pour être dans de beaux draps 
   thumbnail: assets/img/liste/congélateur.jpg
 ---

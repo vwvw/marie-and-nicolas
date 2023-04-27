@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Table à rallonge
+  subtitle: 400CHF Pour accueillir et nourrir dignement nos invités !
   thumbnail: assets/img/liste/congélateur.jpg
 ---

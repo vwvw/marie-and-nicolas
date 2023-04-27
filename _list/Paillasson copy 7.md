@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Banc en bois
+  subtitle: 150CHF pour déposer nos plantes ou nous asseoir sur le balcon.
   thumbnail: assets/img/liste/congélateur.jpg
 ---
