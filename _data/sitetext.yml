@@ -104,13 +104,17 @@ en: &DEFAULT_EN
     end: "On se<br>réjouit<br>de la suite!"
 
   about:
-    title: "[Nous soutenir](/liste)"
+    title: "Nous soutenir"
     text: "La liste de mariage tant demandée!"
     body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
     débuts de jeunes mariés, voici une [liste de mariage](/liste) avec nos coordonnées bancaires. 
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
     section: about
+    buttonText1: Mets pour l'apéro
+    buttonLink1: lien apréo
+    buttonText2: Liste de mariage
+    buttonLink2: /liste
   remerciement:
     title: "Remerciements"
     text: "C'est bien entourés que nous nous marions !"

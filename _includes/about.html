@@ -1,7 +1,6 @@
 <!-- About -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="page-section" padding="200px" id="{{ site.data.sitetext[site.locale].about.section | markdownify | default: "about" }}">
-  <div class="hellO" padding="200px">
+<section class="page-section" id="{{ site.data.sitetext[site.locale].about.section | markdownify | default: "about" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -14,12 +13,22 @@
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
       </div>
     </div>
-  </div>
+    <div class="row">
+      <div class="col-lg-4 text-center"></div>
+      <div class="col-lg-2 text-center">
+          <a href="{{ site.data.sitetext[site.locale].about.buttonLink1 | default: '' }}" class="btn btn-primary btn-l text-uppercase js-scroll-trigger">
+            {{ site.data.sitetext[site.locale].about.buttonText1 | default: "" }}
+          </a>
+      </div>
+      <div class="col-lg-2 text-center">
+          <a href="{{ site.data.sitetext[site.locale].about.buttonLink2 | default: '' }}" class="btn btn-primary btn-l text-uppercase js-scroll-trigger">
+            {{ site.data.sitetext[site.locale].about.buttonText2 | default: "" }}</a>
+      </div>
+    </div>
   </div>
 </section>
 {% else %}
-<section class="page-section" padding=200px id="{{ site.data.sitetext.about.section | markdownify |  default: "about" }}">
-  <div class="hellO" padding="200px">
+<section class="page-section" id="{{ site.data.sitetext.about.section | markdownify |  default: "about" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -32,6 +41,18 @@
         <div class="large text-muted">{{ site.data.sitetext.about.body | markdownify }}</div>
       </div>
     </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-4 text-center"></div>
+      <div class="col-lg-2 text-center">
+          <a href="{{ site.data.sitetext[site.locale].about.buttonLink1 | default: '' }}" class="btn btn-primary btn-l text-uppercase js-scroll-trigger">
+            {{ site.data.sitetext[site.locale].about.buttonText1 | default: "" }}
+          </a>
+      </div>
+      <div class="col-lg-2 text-center">
+          <a href="{{ site.data.sitetext[site.locale].about.buttonLink2 | default: '' }}" class="btn btn-primary btn-l text-uppercase js-scroll-trigger">
+            {{ site.data.sitetext[site.locale].about.buttonText2 | default: "" }}</a>
+      </div>
     </div>
   </div>
 </section>
