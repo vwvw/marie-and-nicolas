@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: Kit pour faire la vaisselle
+  subtitle: 30CHF Linges à main, torchon, égouttoir à vaisselle, ...
   thumbnail: assets/img/liste/congélateur.jpg
 ---

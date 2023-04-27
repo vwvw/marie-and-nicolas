@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Congélateur
-  subtitle: 800CHF hello salut comment je pens equi  lorem ipsum dolores
+  title: De quoi faire des gâteaux
+  subtitle: 50CHF pour des moules à cake et plaques à gâteau
   thumbnail: assets/img/liste/congélateur.jpg
 ---
