@@ -17,7 +17,7 @@ en: &DEFAULT_EN
   services:
     title: "La journée du 30 septembre"
     text: "On se réjouit VRAIMENT de vous voir"
-    section: services
+    section: dday
     list:
       - title: "Cérémonie"
         desc: "Notre mariage sera célébré à 14h00 au temple de Cossonay.<br>Pour le parking, c'est par [ici](parking)!"
@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Mais qui sommes nous???"
     text: "Histoire d'en savoir un peu plus !"
-    section: portfolio
+    section: nous
     closebutton: "Retour"
   
 
@@ -105,16 +105,17 @@ en: &DEFAULT_EN
 
   about:
     title: "Nous soutenir"
+    section: soutenir
     text: "La liste de mariage tant demandée!"
     body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
     débuts de jeunes mariés, voici une [liste de mariage](/liste) avec nos coordonnées bancaires. 
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
-    section: about
     buttonText1: Mets pour l'apéro
     buttonLink1: lien apréo
     buttonText2: Liste de mariage
     buttonLink2: /liste
+
   remerciement:
     title: "Remerciements"
     text: "C'est bien entourés que nous nous marions !"
@@ -172,7 +173,7 @@ en: &DEFAULT_EN
   contact:
     title: "Inscription pour le souper"
     text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence via ce formulaire.<br>"
-    section: contact
+    section: souper
     name: "Nom*"
     name-validation: "Please enter your name."
     email: "Email*"

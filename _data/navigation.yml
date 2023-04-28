@@ -12,17 +12,17 @@
 en: &DEFAULT_EN
   nav:
     - title: "Jour J"
-      section: services
+      section: dday
     - title: "Les mariés"
-      section: portfolio
+      section: nous
     - title: "Nous soutenir"
-      section: about
+      section: soutenir
     - title: "Notre histoire"
       section: timeline
     - title: "Nos majors"
       section: team
-    - title: "Contact"
-      section: contact
+    - title: "Souper"
+      section: souper
 en-US:
   <<: *DEFAULT_EN
 en-CA:
