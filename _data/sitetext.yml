@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-cookie-bite
       - title: "Souper"
         desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la 
-        grande salle de Suchy. Pour confirmer votre présence, c'est par [ici](google forms)." 
+        grande salle de Suchy. Pour confirmer votre présence, c'est par [ici](google forms). Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !" 
 
         icon: fa-solid fa-champagne-glasses
 
@@ -191,7 +191,8 @@ en: &DEFAULT_EN
     text: "Nous nous chargerons des achats, mais vous pouvez contribuer via:
     <br> le Twint de Nicolas [+41 79 914 00 47](tel:+41 79 914 00 47), 
     <br> celui de Marie [+41 77 434 63 16](tel:+41 77 434 63 16), 
-    <br> ou directement via l'IBAN `CH07 0024 3243 3453 3640 W` (Nicolas Badoux)"
+    <br> ou directement via l'IBAN `CH07 0024 3243 3453 3640 W` (Nicolas Badoux).
+    "
     list:
       - title: Congélateur
         subtitle: 800CHF de faire du stock et plaisir à Nicolas
@@ -291,7 +292,7 @@ en: &DEFAULT_EN
         plusieurs fois par jours, c'est clairement sous-doter!"
         thumbnail: assets/img/liste/bol.jpg
       - title: Chaise pour la table à manger
-        subtitle: 300CHF si personne nous en offre, nous en achèterons le minimum et nous s'asseilleront sur les genoux de nos invités!
+        subtitle: 300CHF si personne nous en offre, nous en achèterons le minimum et nous nous asseillerons sur les genoux de nos invités!
         thumbnail: assets/img/liste/chaise.jpg
       - title: Service pour les vélos
         subtitle: 240CHF Vous permettez à Nicolas de rouler plus vite, être moins en retard, et sauverez peut-être notre jeune couple !
