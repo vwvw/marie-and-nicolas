@@ -112,7 +112,7 @@ en: &DEFAULT_EN
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
     buttonText1: Mets pour l'apéro
-    buttonLink1: lien apréo
+    buttonLink1: https://docs.google.com/forms/d/1_VWaXGIBiBQom37Xe1j0tpeQW7Np8-9ii7hPzeN45j4/edit
     buttonText2: Liste de mariage
     buttonLink2: /liste
 
@@ -191,8 +191,7 @@ en: &DEFAULT_EN
     text: "Nous nous chargerons des achats, mais vous pouvez contribuer via:
     <br> le Twint de Nicolas [+41 79 914 00 47](tel:+41 79 914 00 47), 
     <br> celui de Marie [+41 77 434 63 16](tel:+41 77 434 63 16), 
-    <br> ou directement via l'IBAN `CH07 0024 3243 3453 3640 W` (Nicolas Badoux).
-    "
+    <br> ou directement via l'IBAN `CH40 0483 5000 000BADOUX` (Nicolas Badoux)."
     list:
       - title: Congélateur
         subtitle: 800CHF de faire du stock et plaisir à Nicolas
@@ -263,7 +262,7 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/cintre.avif
       - title: Déménagement du piano
         subtitle: "400CHF Marie a eu la chance d'hériter du piano de sa grand-maman
-        d'Esserts, il est pas léger :-/ (mais vous pouvez contribuer en nature avec en
+        d'Esserts-sous-Champvent, il est pas léger :-/ (mais vous pouvez contribuer en nature avec en
         prime un récital par année)"
         thumbnail: assets/img/liste/piano.jpg
       - title: Matelas pour lit double
@@ -285,7 +284,7 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/bouilloire.jpg
       - title: 24 Couverts
         subtitle: 30CHF Nicolas ayant acheté le pack à triple, combien y-a-t-il de petite cuillères? Rendez votre réponse à la mariée et vous aurez un bisou!
-        thumbnail: assets/img/liste/services.jpg
+        thumbnail: assets/img/liste/service.jpg
       - title: Bols pour Kenwood
         subtitle: "60CHF elle vient de base avec un seul. Sachant que tout ce qui peut se
         mettre au lave-vaisselle s'y mets, et que ça nous arrive de faire de la patisserie
@@ -296,10 +295,10 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/chaise.jpg
       - title: Service pour les vélos
         subtitle: 240CHF Vous permettez à Nicolas de rouler plus vite, être moins en retard, et sauverez peut-être notre jeune couple !
-        thumbnail: assets/img/liste/velo.jpg
+        thumbnail: assets/img/liste/bike.jpg
       - title: Carafe d'eau
         subtitle: 60CHF ELLE CONTIENT LE CERVIN GRAVIT PAR MARIE WOWOWOOWOWOW
-        thumbnail: assets/img/liste/carafe.jpg
+        thumbnail: assets/img/liste/carafe.webp
       - title: Petit couteau Victorinox
         subtitle: 10CHF Vous pourrez prendre part au grand débat sur lesquels sont les meilleures, avec ou sans dent?
         thumbnail: assets/img/liste/victorinox.jpg
@@ -308,6 +307,7 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/tup.jpg
       - title: Standing desk
         subtitle: 400CHF Vous pouvez aussi voir celà comme un investissement contre la hausse des coûts de la santé indus par Nicolas
+        thumbnail: assets/img/liste/desk.jpg
         thumbnail: assets/img/liste/desk.jpg
 
 
