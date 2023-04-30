@@ -172,7 +172,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Inscription pour le souper"
-    text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence via ce formulaire.<br>Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !"
+    text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence.<br>Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !"
     section: souper
     name: "Nom*"
     name-validation: "Please enter your name."
@@ -307,7 +307,6 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/tup.jpg
       - title: Standing desk
         subtitle: 400CHF Vous pouvez aussi voir celà comme un investissement contre la hausse des coûts de la santé indus par Nicolas
-        thumbnail: assets/img/liste/desk.jpg
         thumbnail: assets/img/liste/desk.jpg
 
 

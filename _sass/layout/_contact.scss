@@ -2,14 +2,20 @@
 section#souper {
   background-color: $gray-900;
   background-image: url("#{$contact-image}");
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("#{$contact_image}");
   background-size: cover;
   background-position: center;
   .section-heading {
     color: $primary;
   }
   .section-subheading {
-    color: $primary;
+    color: white;
     font-weight: bold;
+    
+    backdrop-filter: blur(10px);
+    border-radius:10px;
+    font-size: x-large;
+    @include heading-font;
   }
   .form-group {
     margin-bottom: 25px;
