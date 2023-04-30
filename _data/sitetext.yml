@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-cookie-bite
       - title: "Souper"
         desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la 
-        grande salle de Suchy. Pour confirmer votre présence, c'est par [ici](google forms). Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !" 
+        grande salle de Suchy. Pour confirmer votre présence, c'est par [ici](souper)." 
 
         icon: fa-solid fa-champagne-glasses
 
@@ -172,7 +172,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Inscription pour le souper"
-    text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence via ce formulaire.<br>"
+    text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence via ce formulaire.<br>Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !"
     section: souper
     name: "Nom*"
     name-validation: "Please enter your name."
