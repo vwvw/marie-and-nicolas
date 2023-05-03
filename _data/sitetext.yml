@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         séparer. Malheureusement les parents Badoux voulurent prendre le dessus et 
         déménagèrent à la Vallée de Joux en 1999."
 
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.jpg.avif
         alt: Que de beaux bébés
       - title: "10 février 2021"
         year: "Un bilan bien neutre"
@@ -59,21 +59,21 @@ en: &DEFAULT_EN
         desc: "Par un après-midi nuageux, ils clarifièrent communément le statut de leur 
         relation au travers d’un bilan d’amitiés, et restèrent amis."
 
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.jpg.avif
         alt:
       - title: "Le temps fit bien les choses"
         year: "Juin 2021"
         desc: "Ils se laissèrent l’opportunité d’apprendre à mieux se connaître par des 
         rencontres à deux et se promirent de se fixer d’ici la fin de l’été."
 
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.jpg.avif
         alt: image alt text
       - title: "Mauvaise météo"
         year: "31 juillet 2021"
         desc: "La fin de l’été étant arrivée plus vite que prévue, ils prirent l’heureuse 
         décision de se mettre en couple."
         
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.jpg.avif
         alt:
       - title: "Au sommet !"
         year: "24 août 2022"
@@ -83,12 +83,12 @@ en: &DEFAULT_EN
         éprouvée par sa journée, mais réjouie par son tendre qui lui tendait une bague, 
         lui dit “oui” !"
 
-        image: assets/img/timeline/5.jpg
+        image: assets/img/timeline/5.jpg.avif
         alt:
       - title: "Un premier chez nous"
         year: "Eté-automne 2023"
         desc: "Nous sommes encore à la recherche d'un endroit où nous établir dans la région de Bussigny/Cossonay, mais promis, on vous tiendra au courant de l'adresse!"
-        image: assets/img/timeline/7.jpg
+        image: assets/img/timeline/7.jpg.avif
         alt:
       - title: "Le début d'une nouvelle ère"
         year: "30 septembre 2023"
@@ -96,7 +96,7 @@ en: &DEFAULT_EN
         gens qu’ils aiment.
         <br>*<q>Toute l'eau des océans ne suffirait pas à éteindre l'amour. Toute l'eau des fleuves serait incapable de l'emporter.</q>*
         <br>Cantiques des Cantiques 8 v. 7"
-        image: assets/img/timeline/6.jpg
+        image: assets/img/timeline/6.jpg.avif
         # dessin de Svenja
         alt:
         # you can enforce the alignment
@@ -151,7 +151,7 @@ en: &DEFAULT_EN
     people:
       - name: "Jérémie Bidaux"
         role: "Colocataire tellement apprécié qu'il est même invité en vacances"
-        image: assets/img/team/jer.jpg
+        image: assets/img/team/jer.jpg.avif
         social:
           - url: mailto:jedtrexx@hotmail.com
             icon: fas fa-envelope
@@ -159,7 +159,7 @@ en: &DEFAULT_EN
             icon: fas fa-phone
       - name: "Déborah Suter"
         role: "Si elle n'a pas le sourire c'est que vous vous êtes trompé de personne"
-        image: assets/img/team/déb.jpg
+        image: assets/img/team/déb.jpg.avif
         social:
           - url: mailto:debout21@hotmail.com
             icon: fas fa-envelope
@@ -167,7 +167,7 @@ en: &DEFAULT_EN
             icon: fas fa-phone
       - name: "X"
         role: "Y"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.jpg.avif
         social:
           - url: mailto:a
             icon: fas fa-envelope
@@ -200,39 +200,39 @@ en: &DEFAULT_EN
     list:
       - title: Congélateur
         subtitle: 800CHF pour faire du stock et plaisir à Nicolas.
-        thumbnail: assets/img/liste/congélateur.jpg
+        thumbnail: assets/img/liste/congélateur.jpg.avif
       - title: Armoire à habits
         subtitle: 800CHF pour une grande armoire à habits (pas de stock prévu dans celle-ci!).
         thumbnail: assets/img/liste/armoire.webp
       - title: Table à rallonges
         subtitle: 400CHF pour accueillir et nourrir dignement nos invités (tant qu'ils ne sont pas trop envahissants :-/).
-        thumbnail: assets/img/liste/table.jpg
+        thumbnail: assets/img/liste/table.jpg.avif
       - title: Accessoires de salle de bain
         subtitle: 50CHF tapis de douche, rideau de douche, poubelle, brosse pour les toilette, ... 
-        thumbnail: assets/img/liste/salle-de-bain.jpg
+        thumbnail: assets/img/liste/salle-de-bain.jpg.avif
       - title: Paillasson
         subtitle: 10CHF pour ne pas détremper l'appartement !
-        thumbnail: assets/img/liste/paillasson.jpg
+        thumbnail: assets/img/liste/paillasson.jpg.avif
       - title: Banc en bois
         subtitle: 150CHF, avec ou sans les chocolats.
-        thumbnail: assets/img/liste/banc.jpg
+        thumbnail: assets/img/liste/banc.jpg.avif
       - title: Nappe, serviettes et sets de table
         subtitle: 50CHF pour garnir une jolie table, possibilité de mettre plus pour la moto.
-        thumbnail: assets/img/liste/nappe.jpg
+        thumbnail: assets/img/liste/nappe.jpg.avif
       - title: LE Lit 
         subtitle: 800CHF pour un lit double avec deux duvets.
         thumbnail: assets/img/liste/lit.webp
       - title: Linges
         subtitle: 30CHF linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
-        thumbnail: assets/img/liste/linge.jpg
+        thumbnail: assets/img/liste/linge.jpg.avif
       - title: Râpe
         subtitle: 75CHF histoire de pouvoir faire de la salade de carotte pour 50!
-        thumbnail: assets/img/liste/rape.jpg
+        thumbnail: assets/img/liste/rape.jpg.avif
       - title: Torchons de vaisselle
         subtitle: "10CHF pour revivre la vaisselle des camp, ses combats, et ses belles
         discussions (non, promis Nicolas fera tout son possible pour laisser l'air et
         la patience faire leur travail)."
-        thumbnail: assets/img/liste/linge-vaisselle.jpg
+        thumbnail: assets/img/liste/linge-vaisselle.jpg.avif
       - title: Moule à cake
         subtitle: 15CHF c'est pas que nous en avons pas déjà, mais il en faut plus pour contenir tout ce que la Kenwood peut produire en une journée.
         thumbnail: assets/img/liste/cake.webp
@@ -240,7 +240,7 @@ en: &DEFAULT_EN
         subtitle: "400CHF Une Kenwood avec une balance, Nicolas l'attend depuis presque 5
         ans (ça reste quand même 5 fois moins longtemps que ce que Marie a dû patienter
         pour la demande en fiançailles)."
-        thumbnail: assets/img/liste/kenwood.png
+        thumbnail: assets/img/liste/kenwood.png.avif
       - title: Gaufrier
         subtitle: 60CHF promis on ne laissera pas exploser la pâte à gaufres cette fois #anecdote
         thumbnail: assets/img/liste/four-gaufre.webp
@@ -249,19 +249,19 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/sorbetiere.webp
       - title: Crêpe Party
         subtitle: 80CHF pour des crêpes un peu moins saines que celles-ci (compris dans le prix, une invitation pour la prochaine Chandeleur)
-        thumbnail: assets/img/liste/crepe.jpg
+        thumbnail: assets/img/liste/crepe.jpg.avif
       - title: Planche à pain
         subtitle: 25CHF en cas de nouvelle pandémie et d'une nouvelle boulangeritte aigûe
-        thumbnail: assets/img/liste/planche-pain.jpg
+        thumbnail: assets/img/liste/planche-pain.jpg.avif
       - title: Plateau à fromage
         subtitle: 25CHF pas sûr que Nicolas l'utilisera un jour, mais Marie quotidiennement c'est sûr !
-        thumbnail: assets/img/liste/fromage.jpg
+        thumbnail: assets/img/liste/fromage.jpg.avif
       - title: Carte du monde
         subtitle: "100CHF histoire que l'on puisse donner des cours de géopolitique à nos petits-enfants avec des frontières qui ne seront plus tout à fait à jour"
-        thumbnail: assets/img/liste/map.jpg
+        thumbnail: assets/img/liste/map.jpg.avif
       - title: Voyage de noce
         subtitle: "10 x 10-1000CHF Le lieu est encore tenu secret (ok, c'est que l'on n'a pas encore décidé, mais ça sera sûrement une île (et non pas l'Isle...))"
-        thumbnail: assets/img/liste/voyage.jpg
+        thumbnail: assets/img/liste/voyage.jpg.avif
       - title: <s>Cintres</s>
         subtitle: Plus besoin, le coloc de Nicolas n'avait pas compris que Ikea les vendait par 10 
         thumbnail: assets/img/liste/cintre.avif
@@ -269,13 +269,13 @@ en: &DEFAULT_EN
         subtitle: "400CHF Marie a eu la chance d'hériter du piano de sa grand-maman
         d'Essert-sous-Champvent, il n'est pas léger :-/ (mais vous pouvez contribuer en nature avec en
         prime un récital par année)"
-        thumbnail: assets/img/liste/piano.jpg
+        thumbnail: assets/img/liste/piano.jpg.avif
       - title: Matelas pour lit double
         subtitle: "800CHF si vous êtes un couple et que vous nous avez croisés cette dernière
         année, Nicolas a sûrement évoqué sa question de savoir s'il serait possible de se
         satisfaire d'un matelas de 80cm. Pour le bien de Marie, faites-lui savoir que non
         via ce cadeau."
-        thumbnail: assets/img/liste/matelas.jpg
+        thumbnail: assets/img/liste/matelas.jpg.avif
       - title: Miroir
         subtitle: 30CHF Nicolas ne se rendra compte de sa présence qu'après 10 ans de mariage, mais il fera plaisir à Marie tous les jours.
         thumbnail: assets/img/liste/miroir.webp
@@ -286,45 +286,45 @@ en: &DEFAULT_EN
         thumbnail: assets/img/liste/vin.avif
       - title: Bouilloire
         subtitle: "50CHF ce cadeau peut servir d'indulgence si vous n'avez jamais su conjuguer le verbe bouillir avant de venir au mariage d'une prof de français"
-        thumbnail: assets/img/liste/bouilloire.jpg
+        thumbnail: assets/img/liste/bouilloire.jpg.avif
       - title: 24 Couverts
         subtitle: 30CHF Nicolas ayant acheté le pack à triple, combien y-a-t-il de petites cuillères? Rendez votre réponse à la mariée et vous aurez un bisou!
-        thumbnail: assets/img/liste/service.jpg
+        thumbnail: assets/img/liste/service.jpg.avif
       - title: Bol pour Kenwood
         subtitle: "60CHF la Kenwood vient de base avec un seul. Sachant que tout ce qui peut se
         mettre au lave-vaisselle s'y met, et que ça nous arrive de faire de la pâtisserie
         plusieurs fois par jour, c'est clairement sous-doté!"
-        thumbnail: assets/img/liste/bol.jpg
+        thumbnail: assets/img/liste/bol.jpg.avif
       - title: Chaises pour la table à manger
         subtitle: 300CHF si personne ne nous en offre, nous en achèterons le minimum et nous nous assiérons sur les genoux de nos invités!
-        thumbnail: assets/img/liste/chaise.jpg
+        thumbnail: assets/img/liste/chaise.jpg.avif
       - title: Service pour les vélos
         subtitle: 240CHF vous permettrez à Nicolas de rouler plus vite, d'être moins en retard, et vous sauverez peut-être notre jeune couple !
-        thumbnail: assets/img/liste/bike.jpg
+        thumbnail: assets/img/liste/bike.jpg.avif
       - title: Carafe d'eau
         subtitle: 60CHF ELLE CONTIENT LE CERVIN GRAVI PAR MARIE WOWOWOOWOWOW
         thumbnail: assets/img/liste/carafe.webp
       - title: Petits couteaux Victorinox
         subtitle: 10CHF vous pourrez prendre part au grand débat pour savoir lesquels sont les meilleurs, avec ou sans dents?
-        thumbnail: assets/img/liste/victorinox.jpg
+        thumbnail: assets/img/liste/victorinox.jpg.avif
       - title: Tupperware
         subtitle: 20CHF car une fois que l'on a cuisiné en grande quantité, il faut bien mettre tout ça au frigo !
-        thumbnail: assets/img/liste/tup.jpg
+        thumbnail: assets/img/liste/tup.jpg.avif
       - title: Standing desk
         subtitle: 400CHF vous pouvez voir cela comme un investissement contre la hausse des coûts de la santé induit par Nicolas
-        thumbnail: assets/img/liste/desk.jpg
+        thumbnail: assets/img/liste/desk.jpg.avif
       - title: Assiettes
         subtitle: 100CHF il parait que c'est nécessaire pour une bonne scène de ménage
-        thumbnail: assets/img/liste/assiette.jpg
+        thumbnail: assets/img/liste/assiette.jpg.avif
       - title: Accessoires de pâtisseries (rouleau, etc...)
         subtitle: 30CHF ça ne vous absout pas de nous apporter des éclairs, caracs, et autres joyeusetés
-        thumbnail: assets/img/liste/baking.jpg
+        thumbnail: assets/img/liste/baking.jpg.avif
       - title: Arrosoir
         subtitle: 30CHF car les plantes, tout comme notre amour ont besoin d'être arrosé quotidiennement
-        thumbnail: assets/img/liste/arrosoir.jpg
+        thumbnail: assets/img/liste/arrosoir.jpg.avif
       - title: Plateau
         subtitle: 30CHF avec ou sans le service au lit le dimanche matin
-        thumbnail: assets/img/liste/plateau.jpg
+        thumbnail: assets/img/liste/plateau.jpg.avif
 #      - title:
 #        subtitle: 
 #        thumbnail: assets/img/liste/

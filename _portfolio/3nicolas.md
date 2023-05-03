@@ -1,13 +1,13 @@
 ---
 title: Nicolas
 subtitle: L'homme au grand coeur
-image: assets/img/nicolas_funny.jpg
+image: assets/img/nicolas_funny.jpg.avif
 alt: Shirts on a hanger
 
 caption:
   title: Nicolas
   subtitle: En savoir plus
-  thumbnail: assets/img/nicolas.jpg
+  thumbnail: assets/img/nicolas.jpg.avif
 ---
 
 Nicolas a grandi à la Vallée de Joux en étant le petit frère de Guillaume et le grand frère de Joanne et Maëlle.
