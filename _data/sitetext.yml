@@ -136,6 +136,10 @@ en: &DEFAULT_EN
           position: "Parce qu'il y a une source à notre amour"
         - title: "Floriane Gilliand"
           position: "Voiture balai qui, on espère, nous prendra en autostop si on se retrouve à marcher au bord d'une route cantonale!"
+        - title: "Yolende et Luk Badou"
+          position: "Poure havoir vu lès nonbreuse fôtes d'ortografe sur le sitte."
+        - title: "Corinne et Jan Hauri"
+          position: "Aucun doute qu'après une telle préparation au mariage, on est parti pour la vie !"
 
 
   team:
@@ -174,6 +178,7 @@ en: &DEFAULT_EN
     title: "Inscription pour le souper"
     text: "Si vous avez reçu une invitation au souper, merci de nous confirmer votre présence.<br>Vos enfants se feront une joie de garder leurs grands-parents pour la soirée !"
     section: souper
+    first-name: "Prénom*"
     name: "Nom*"
     name-validation: "Please enter your name."
     email: "Email*"
@@ -218,10 +223,10 @@ en: &DEFAULT_EN
         subtitle: 800CHF pour un lit double avec deux duvets.
         thumbnail: assets/img/liste/lit.webp
       - title: Linges
-        subtitle: 30CHF Linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
+        subtitle: 30CHF linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
         thumbnail: assets/img/liste/linge.jpg
       - title: Râpe
-        subtitle: 75CHF Histoire de pouvoir faire de la salade de carotte pour 50!
+        subtitle: 75CHF histoire de pouvoir faire de la salade de carotte pour 50!
         thumbnail: assets/img/liste/rape.jpg
       - title: Torchons de vaisselle
         subtitle: "10CHF pour revivre la vaisselle des camp, ses combats, et ses belles
@@ -229,7 +234,7 @@ en: &DEFAULT_EN
         la patience faire leur travail)."
         thumbnail: assets/img/liste/linge-vaisselle.jpg
       - title: Moule à cake
-        subtitle: 15CHF C'est pas que nous en avons pas déjà, mais il en faut plus pour contenir tout ce que la Kenwood peut produire en une journée.
+        subtitle: 15CHF c'est pas que nous en avons pas déjà, mais il en faut plus pour contenir tout ce que la Kenwood peut produire en une journée.
         thumbnail: assets/img/liste/cake.webp
       - title: Kenwood Baker XL
         subtitle: "400CHF Une Kenwood avec une balance, Nicolas l'attend depuis presque 5
@@ -237,10 +242,10 @@ en: &DEFAULT_EN
         pour la demande en fiançailles)."
         thumbnail: assets/img/liste/kenwood.png
       - title: Gaufrier
-        subtitle: 60CHF Promis on ne laissera pas exploser la pâte à gaufres cette fois #anecdote
+        subtitle: 60CHF promis on ne laissera pas exploser la pâte à gaufres cette fois #anecdote
         thumbnail: assets/img/liste/four-gaufre.webp
       - title: Sorbetière
-        subtitle: 120CHF Outil indispensable si l'on veut avoir la visite du papa du marié (mais celui-ci en fera aussi bon usage!)
+        subtitle: 120CHF outil indispensable si l'on veut avoir la visite du papa du marié (mais celui-ci en fera aussi bon usage!)
         thumbnail: assets/img/liste/sorbetiere.webp
       - title: Crêpe Party
         subtitle: 80CHF pour des crêpes un peu moins saines que celles-ci (compris dans le prix, une invitation pour la prochaine Chandeleur)
@@ -249,10 +254,10 @@ en: &DEFAULT_EN
         subtitle: 25CHF en cas de nouvelle pandémie et d'une nouvelle boulangeritte aigûe
         thumbnail: assets/img/liste/planche-pain.jpg
       - title: Plateau à fromage
-        subtitle: 25CHF Pas sûr que Nicolas l'utilisera un jour, mais Marie quotidiennement c'est sûr !
+        subtitle: 25CHF pas sûr que Nicolas l'utilisera un jour, mais Marie quotidiennement c'est sûr !
         thumbnail: assets/img/liste/fromage.jpg
       - title: Carte du monde
-        subtitle: "100CHF Histoire que l'on puisse donner des cours de géopolitique à nos petits-enfants avec des frontières qui ne seront plus tout à fait à jour"
+        subtitle: "100CHF histoire que l'on puisse donner des cours de géopolitique à nos petits-enfants avec des frontières qui ne seront plus tout à fait à jour"
         thumbnail: assets/img/liste/map.jpg
       - title: Voyage de noce
         subtitle: "10 x 10-1000CHF Le lieu est encore tenu secret (ok, c'est que l'on n'a pas encore décidé, mais ça sera sûrement une île (et non pas l'Isle...))"
@@ -266,7 +271,7 @@ en: &DEFAULT_EN
         prime un récital par année)"
         thumbnail: assets/img/liste/piano.jpg
       - title: Matelas pour lit double
-        subtitle: "800CHF Si vous êtes un couple et que vous nous avez croisés cette dernière
+        subtitle: "800CHF si vous êtes un couple et que vous nous avez croisés cette dernière
         année, Nicolas a sûrement évoqué sa question de savoir s'il serait possible de se
         satisfaire d'un matelas de 80cm. Pour le bien de Marie, faites-lui savoir que non
         via ce cadeau."
@@ -294,21 +299,35 @@ en: &DEFAULT_EN
         subtitle: 300CHF si personne ne nous en offre, nous en achèterons le minimum et nous nous assiérons sur les genoux de nos invités!
         thumbnail: assets/img/liste/chaise.jpg
       - title: Service pour les vélos
-        subtitle: 240CHF Vous permettrez à Nicolas de rouler plus vite, d'être moins en retard, et vous sauverez peut-être notre jeune couple !
+        subtitle: 240CHF vous permettrez à Nicolas de rouler plus vite, d'être moins en retard, et vous sauverez peut-être notre jeune couple !
         thumbnail: assets/img/liste/bike.jpg
       - title: Carafe d'eau
         subtitle: 60CHF ELLE CONTIENT LE CERVIN GRAVI PAR MARIE WOWOWOOWOWOW
         thumbnail: assets/img/liste/carafe.webp
       - title: Petits couteaux Victorinox
-        subtitle: 10CHF Vous pourrez prendre part au grand débat pour savoir lesquels sont les meilleurs, avec ou sans dents?
+        subtitle: 10CHF vous pourrez prendre part au grand débat pour savoir lesquels sont les meilleurs, avec ou sans dents?
         thumbnail: assets/img/liste/victorinox.jpg
       - title: Tupperware
-        subtitle: 20CHF Car une fois que l'on a cuisiné en grande quantité, il faut bien mettre tout ça au frigo !
+        subtitle: 20CHF car une fois que l'on a cuisiné en grande quantité, il faut bien mettre tout ça au frigo !
         thumbnail: assets/img/liste/tup.jpg
       - title: Standing desk
-        subtitle: 400CHF Vous pouvez voir cela comme un investissement contre la hausse des coûts de la santé induit par Nicolas
+        subtitle: 400CHF vous pouvez voir cela comme un investissement contre la hausse des coûts de la santé induit par Nicolas
         thumbnail: assets/img/liste/desk.jpg
-
+      - title: Assiettes
+        subtitle: 100CHF il parait que c'est nécessaire pour une bonne scène de ménage
+        thumbnail: assets/img/liste/assiette.jpg
+      - title: Accessoires de pâtisseries (rouleau, etc...)
+        subtitle: 30CHF ça ne vous absout pas de nous apporter des éclairs, caracs, et autres joyeusetés
+        thumbnail: assets/img/liste/baking.jpg
+      - title: Arrosoir
+        subtitle: 30CHF car les plantes, tout comme notre amour ont besoin d'être arrosé quotidiennement
+        thumbnail: assets/img/liste/arrosoir.jpg
+      - title: Plateau
+        subtitle: 30CHF avec ou sans le service au lit le dimanche matin
+        thumbnail: assets/img/liste/plateau.jpg
+#      - title:
+#        subtitle: 
+#        thumbnail: assets/img/liste/
 
 
     closebutton: "Retour"

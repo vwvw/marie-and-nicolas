@@ -12,14 +12,12 @@ $(function() {
       // get values from FORM
       var url ="https://submit-form.com/{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}";
       var name = $("input#name").val();
+      var firstname = $("input#firstname").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();
+      var invite = $("input#invite").val();
       var message = $("textarea#message").val();
-      var firstName = name; // For Success/Failure Message
       // Check for white space in name for Success/Fail message
-      if (firstName.indexOf(' ') >= 0) {
-        firstName = name.split(' ').slice(0, -1).join(' ');
-      }
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({
@@ -27,9 +25,11 @@ $(function() {
         type: "POST",
 	dataType: "json",
         data: {
+          firstname: firstname,
           name: name,
           phone: phone,
           email: email,
+          invite: invite,
           message: message
         },
         cache: false,
