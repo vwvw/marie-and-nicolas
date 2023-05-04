@@ -325,9 +325,27 @@ en: &DEFAULT_EN
       - title: Plateau
         subtitle: 30CHF avec ou sans le service au lit le dimanche matin
         thumbnail: assets/img/liste/plateau.jpg.avif
-#      - title:
-#        subtitle: 
-#        thumbnail: assets/img/liste/
+      - title: Set de poêles et casseroles
+        subtitle: 100CHF on a déjà un caquelon mais nos mamans ne veulent pas que l'on fasse fondue tout les jours.
+        thumbnail: assets/img/liste/casserole.jpg
+      - title: Passoire
+        subtitle: 20CHF elle retiendra toujours plus de chose que la mémoire de Nicolas
+        thumbnail: assets/img/liste/passoire.avif
+      - title: Étendage
+        subtitle: 50CHF si un jour Marie veut sécher les cours
+        thumbnail: assets/img/liste/etendage.jpg
+      - title: Étagère
+        subtitle: 200CHF Le stock qui sortira de l'armoire à habits de Nicolas devra bien aller quelque part. 
+        thumbnail: assets/img/liste/shelf.avif
+      - title: Lampes
+        subtitle: 150CHF histoire qu'on aie la lumière à tout les étages
+        thumbnail: assets/img/liste/lampe.webp
+      - title: Tapis
+        subtitle: 150CHF pour partir en voage de noce si vous prenez l'option volante
+        thumbnail: assets/img/liste/tapis.webp
+      - title: Canapé
+        subtitle: 1200CHF Marie précise qu'il ne peut pas être au saumon
+        thumbnail: assets/img/liste/canape.jpg
 
 
     closebutton: "Retour"
