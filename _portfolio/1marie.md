@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Marie
   subtitle: En savoir plus
-  thumbnail: assets/img/marie.jpg.avif
+  thumbnail: assets/img/marie.jpg.webp
   
 #what displays when the item is clicked:
 title: Marie Laffely
 subtitle: La femme qui dégainait des jeux de mots plus rapidement que son ombre.
-image: assets/img/marie_funny.jpeg.avif #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/marie_funny.jpeg.webp #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
