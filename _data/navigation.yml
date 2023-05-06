@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: dday
     - title: "Les mariés"
       section: nous
-    - title: "Nous soutenir"
-      section: soutenir
     - title: "Notre histoire"
       section: timeline
+    - title: "Nous soutenir"
+      section: soutenir
     - title: "Nos majors"
       section: team
     - title: "Souper"

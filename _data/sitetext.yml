@@ -107,7 +107,9 @@ en: &DEFAULT_EN
     title: "Nous soutenir"
     section: soutenir
     text: "La liste de mariage tant demandée!"
-    body: "Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
+    body: "
+    Nous recherchons des personnes volontaires pour nous aider à concocter notre apéro de mariage. Si vous vous sentez une âme de cuisinier (au moins autant que nos papas), jetez un oeil à la [liste](https://forms.gle/trxu6JwZbUaKAQiE6) ci-dessous !
+    <br>Si, en plus de votre présence le jour J, vous souhaitez nous soutenir dans nos 
     débuts de jeunes mariés, voici une [liste de mariage](/liste) avec nos coordonnées bancaires. 
     Nicolas ayant pour passion de flairer les meilleures actions, on se chargera 
     d’effectuer nous-mêmes les achats."
@@ -317,7 +319,7 @@ en: &DEFAULT_EN
         subtitle: 400CHF vous pouvez voir cela comme un investissement contre la hausse des coûts de la santé induit par Nicolas.
         thumbnail: assets/img/liste/desk.jpg.webp
       - title: Assiettes
-        subtitle: 100CHF pour les jours où est pas dans notre assiette.
+        subtitle: 100CHF pour les jours où l'on n'est pas dans notre assiette.
         thumbnail: assets/img/liste/assiette.webp
       - title: Accessoires de pâtisseries (rouleau, etc...)
         subtitle: 30CHF ça ne vous absout pas de nous apporter des éclairs, caracs, et autres joyeusetés.
