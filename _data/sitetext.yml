@@ -154,7 +154,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Jérémie Bidaux"
-        role: "Colocataire tellement apprécié qu'il est même invité en vacances"
+        role: "Colocataire tellement apprécié qu'il est même invité en vacances."
         image: assets/img/team/jer.jpg.webp
         social:
           - url: mailto:jedtrexx@hotmail.com
@@ -162,7 +162,7 @@ en: &DEFAULT_EN
           - url: tel:+41791383552
             icon: fas fa-phone
       - name: "Déborah Suter"
-        role: "Si elle n'a pas le sourire c'est que vous vous êtes trompé de personne"
+        role: "Si elle n'a pas le sourire c'est que vous vous êtes trompé de personne."
         image: assets/img/team/déb.jpg
         social:
           - url: mailto:debout21@hotmail.com
