@@ -252,13 +252,13 @@ en: &DEFAULT_EN
       - title: Sorbetière
         subtitle: 120CHF outil indispensable si l'on veut avoir la visite du papa du marié (mais celui-ci en fera aussi bon usage !).
         thumbnail: assets/img/liste/sorbetiere.webp
-      - title: ~Crêpe Party~
+      - title: <s>Crêpe Party</s>
         subtitle: 80CHF pour des crêpes un peu moins saines que celles-ci (compris dans le prix, une invitation pour la prochaine Chandeleur).
         thumbnail: assets/img/liste/crepe.jpg.webp
       - title: Planche à pain
         subtitle: 25CHF en cas de nouvelle pandémie et d'une nouvelle boulangeritte aigüe.
         thumbnail: assets/img/liste/planche-pain.jpg.webp
-      - title: ~Plateau à fromage~
+      - title: <s>Plateau à fromage</s>
         subtitle: 25CHF pas sûr que Nicolas l'utilisera un jour, mais Marie quotidiennement c'est sûr !
         thumbnail: assets/img/liste/fromage.jpg.webp
       - title: Carte du monde
