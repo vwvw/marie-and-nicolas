@@ -246,7 +246,7 @@ en: &DEFAULT_EN
         ans (ça reste quand même 5 fois moins longtemps que ce que Marie a dû patienter
         pour la demande en fiançailles)."
         thumbnail: assets/img/liste/kenwood.png.webp
-      - title: Gaufrier
+      - title: <s>Gaufrier</s>
         subtitle: "60CHF promis on ne laissera pas exploser la pâte à gaufres cette fois #anecdote."
         thumbnail: assets/img/liste/four-gaufre.webp
       - title: Sorbetière
