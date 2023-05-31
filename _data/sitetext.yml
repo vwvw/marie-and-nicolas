@@ -215,13 +215,13 @@ en: &DEFAULT_EN
       - title: Accessoires de salle de bain
         subtitle: 50CHF tapis de douche, rideau de douche, poubelle, brosse pour les toilette, ... 
         thumbnail: assets/img/liste/salle-de-bain.jpg.webp
-      - title: Paillasson
+      - title: <s>Paillasson</s>
         subtitle: 10CHF pour ne pas détremper l'appartement !
         thumbnail: assets/img/liste/paillasson.jpg.webp
       - title: Banc en bois
         subtitle: 150CHF, avec ou sans les chocolats.
         thumbnail: assets/img/liste/banc.jpg.webp
-      - title: Nappe, serviettes et sets de table
+      - title: <s>Nappe, serviettes et sets de table</s>
         subtitle: 50CHF pour garnir une jolie table, possibilité de mettre plus pour la moto.
         thumbnail: assets/img/liste/nappe.jpg.webp
       - title: LE Lit 
@@ -284,7 +284,7 @@ en: &DEFAULT_EN
       - title: Miroir
         subtitle: 30CHF Nicolas ne se rendra compte de sa présence qu'après 10 ans de mariage, mais il fera plaisir à Marie tous les jours.
         thumbnail: assets/img/liste/miroir.webp
-      - title: Verres à vin
+      - title: <s>Verres à vin</s>
         subtitle: "60CHF c'est très simple, au vu de notre consommation, si vous ne nous en
         offrez pas, vous risquez de boire votre vin dans le verre des brosses à dents lors de
         votre prochaine visite."
