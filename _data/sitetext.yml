@@ -318,7 +318,7 @@ en: &DEFAULT_EN
       - title: Standing desk
         subtitle: 400CHF vous pouvez voir cela comme un investissement contre la hausse des coûts de la santé induits par Nicolas.
         thumbnail: assets/img/liste/desk.jpg.webp
-      - title: Assiettes
+      - title: <s>Assiettes</s>
         subtitle: 100CHF pour les jours où l'on n'est pas dans notre assiette.
         thumbnail: assets/img/liste/assiette.webp
       - title: Accessoires de pâtisseries (rouleau, etc...)
