@@ -212,7 +212,7 @@ en: &DEFAULT_EN
       - title: Table à rallonges
         subtitle: 400CHF pour accueillir et nourrir dignement nos invités (tant qu'ils ne sont pas trop envahissants :-/).
         thumbnail: assets/img/liste/table.jpg.webp
-      - title: Accessoires de salle de bain
+      - title: <s>Accessoires de salle de bain</s>
         subtitle: 50CHF tapis de douche, rideau de douche, poubelle, brosse pour les toilette, ... 
         thumbnail: assets/img/liste/salle-de-bain.jpg.webp
       - title: <s>Paillasson</s>
@@ -230,8 +230,8 @@ en: &DEFAULT_EN
       - title: Linges
         subtitle: 30CHF linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
         thumbnail: assets/img/liste/linge.jpg.webp
-      - title: Râpe
-        subtitle: <s>75CHF histoire de pouvoir faire de la salade de carotte pour 50 !</s>
+      - title: <s>Râpe</s>
+        subtitle: 75CHF histoire de pouvoir faire de la salade de carotte pour 50 !
         thumbnail: assets/img/liste/rape.jpg.webp
       - title: Torchons de vaisselle
         subtitle: "10CHF pour revivre la vaisselle des camps, ses combats, et ses belles
@@ -336,8 +336,8 @@ en: &DEFAULT_EN
       - title: Passoire
         subtitle: 20CHF elle retiendra toujours plus de chose que la mémoire de Nicolas.
         thumbnail: assets/img/liste/passoire.webp
-      - title: Étendage
-        subtitle: <s>50CHF si un jour Marie veut sécher les cours.</s>
+      - title: <s>Étendage</s>
+        subtitle: 50CHF si un jour Marie veut sécher les cours.
         thumbnail: assets/img/liste/etendage.jpg
       - title: Étagère
         subtitle: 200CHF Le stock qui sortira de l'armoire à habits de Nicolas devra bien aller quelque part. 
