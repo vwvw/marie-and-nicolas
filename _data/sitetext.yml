@@ -23,10 +23,10 @@ en: &DEFAULT_EN
         desc: "Notre mariage sera célébré à **14h00** au [Temple de Cossonay](https://goo.gl/maps/r5SEVHG7bSL2fV569)." #<br>Pour le parking, c'est par [ici](parking)!
         icon: fas fa-church #find more at https://fontawesome.com/icons
       - title: "Apéro"
-        desc: "On continuera la fête à la [Grande salle du battoir de Goumoens-la-Ville](https://goo.gl/maps/1PdJwLcgRcYSLiP16)"
+        desc: "Changement de programme, nous ne serons plus à Goumoens, mais allons rester dans cette jolie bourgade qu'est Cossonay ! On continuera la fête à [l'Église Évangélique de Cossonay](https://goo.gl/maps/RSH9s8VigjFpZuuS7). "
         icon: fas fa-cookie-bite
       - title: "Souper"
-        desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la 
+        desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la
         [grande salle de Suchy](https://goo.gl/maps/bowXpKy3cTcCUHoF8). Pour confirmer votre présence, c'est par [ici](#souper)." 
 
         icon: fa-solid fa-champagne-glasses
@@ -86,8 +86,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/5.jpg.webp
         alt:
       - title: "Un premier chez nous"
-        year: "Eté-automne 2023"
-        desc: "Nous sommes encore à la recherche d'un endroit où nous établir dans la région de Bussigny/Cossonay, mais promis, on vous tiendra au courant de l'adresse!"
+        year: "1er juin 2023"
+        desc: "Nous avons emménagé dans un magnifique appartement au centre de Bussigny. Vous êtes les bienvenus à la Rue de la Gare 21 !"
         image: assets/img/timeline/7.jpg.webp
         alt:
       - title: "Le début d'une nouvelle ère"
@@ -231,7 +231,7 @@ en: &DEFAULT_EN
         subtitle: 30CHF linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
         thumbnail: assets/img/liste/linge.jpg.webp
       - title: Râpe
-        subtitle: 75CHF histoire de pouvoir faire de la salade de carotte pour 50 !
+        subtitle: <s>75CHF histoire de pouvoir faire de la salade de carotte pour 50 !</s>
         thumbnail: assets/img/liste/rape.jpg.webp
       - title: Torchons de vaisselle
         subtitle: "10CHF pour revivre la vaisselle des camps, ses combats, et ses belles
@@ -337,7 +337,7 @@ en: &DEFAULT_EN
         subtitle: 20CHF elle retiendra toujours plus de chose que la mémoire de Nicolas.
         thumbnail: assets/img/liste/passoire.webp
       - title: Étendage
-        subtitle: 50CHF si un jour Marie veut sécher les cours.
+        subtitle: <s>50CHF si un jour Marie veut sécher les cours.</s>
         thumbnail: assets/img/liste/etendage.jpg
       - title: Étagère
         subtitle: 200CHF Le stock qui sortira de l'armoire à habits de Nicolas devra bien aller quelque part. 
