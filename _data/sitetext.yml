@@ -136,14 +136,26 @@ en: &DEFAULT_EN
           position: "Pour une team déco de choc, ainsi qu'un oeil artistique pour complémenter l'esprit cartésien de Nicolas lors de la confection des faire-parts."
         - title: "Dieu"
           position: "Parce qu'il y a une source à notre amour"
-        - title: "Floriane Gilliand"
-          position: "Voiture balai qui, on espère, nous prendra en autostop si on se retrouve à marcher au bord d'une route cantonale!"
+        - title: "Floriane Gilliand & David Hofer"
+          position: "Voiture balai qui, on espère cette fois, nous prendra en autostop si on se retrouve à marcher au bord d'une route cantonale!"
         - title: "Yolende et Luk Badou"
           position: "Poure havoir vu lès nonbreuse fôtes d'ortografe sur le sitte."
         - title: "Corinne et Jan Hauri"
           position: "Aucun doute, après une telle préparation au mariage, on est parti pour la vie !"
         - title: "Tsiry Morvant (et Noémie)"
           position: "On espère qu'il ne devra pas choisir entre notre mariage et l'accouchement de son deuxième enfant."
+        - title: "Claude-Alain Gentet"
+          position: "On est obligé de le citer, autrement il risque de nous couper les micros au moment de dire OUI."
+        - title: "Benoit Tissot, Damaris Roy, Amandie Geiser, Barnabé Bodenmann, Hédi Kempf, Marc Mukendi, et Henri Badoux"
+          position: "Par leur dévouement, nous évitons que Nicolas doive toucher un instrument de la journée, grâce leur soit rendue !"
+        - title: "John et Sylvie Geiser, Alexia et Cédric Bourgeois"
+          position: "Sans eux, l'apéro serait resté au frigo et Nicolas aurait tout mangé tout seul."
+        - title: "Siméa Huber, Priscilla Huber, Ladina Schindler, Nadège Waber, Julien Schneider"
+          position: "Eux, ils savent rendre SERVICE."
+        - title: "Mélissa et Olivia Staub, Bastien et Mario Geiser"
+          position: "La salle d'apéro aurait été bien vide sans leur aide."
+        - title: "Thierry Gentet, Camille et Mark Waldmann"
+          position: "Ces habitants de Cossonay ont reconquis leur temple pour le rendre encore plus beau que d'habitude!"
 
 
   team:
@@ -218,7 +230,7 @@ en: &DEFAULT_EN
       - title: <s>Paillasson</s>
         subtitle: 10CHF pour ne pas détremper l'appartement !
         thumbnail: assets/img/liste/paillasson.jpg.webp
-      - title: Banc en bois
+      - title: <s>Banc en bois</s>
         subtitle: 150CHF, avec ou sans les chocolats.
         thumbnail: assets/img/liste/banc.jpg.webp
       - title: <s>Nappe, serviettes et sets de table</s>
@@ -249,7 +261,7 @@ en: &DEFAULT_EN
       - title: <s>Gaufrier</s>
         subtitle: "60CHF promis on ne laissera pas exploser la pâte à gaufres cette fois #anecdote."
         thumbnail: assets/img/liste/four-gaufre.webp
-      - title: Sorbetière
+      - title: <s>Sorbetière</s>
         subtitle: 120CHF outil indispensable si l'on veut avoir la visite du papa du marié (mais celui-ci en fera aussi bon usage !).
         thumbnail: assets/img/liste/sorbetiere.webp
       - title: <s>Crêpe Party</s>
@@ -265,7 +277,7 @@ en: &DEFAULT_EN
         subtitle: "100CHF histoire que l'on puisse donner des cours de géopolitique à nos petits-enfants avec des frontières qui ne seront plus tout à fait à jour."
         thumbnail: assets/img/liste/map.jpg.webp
       - title: Voyage de noce
-        subtitle: "10 x 10-1000CHF Le lieu est encore tenu secret (ok, c'est que l'on n'a pas encore décidé, mais ça sera sûrement une île (et non pas l'Isle...))."
+        subtitle: "9 x 10-1000CHF Le lieu est encore tenu secret (ok, c'est que l'on n'a pas encore décidé, mais ça sera sûrement une île (et non pas l'Isle...))."
         thumbnail: assets/img/liste/voyage.jpg.webp
       - title: <s>Cintres</s>
         subtitle: Plus besoin, le coloc de Nicolas n'avait pas compris que Ikea les vendait par 10 .
@@ -295,7 +307,7 @@ en: &DEFAULT_EN
       - title: 24 Couverts
         subtitle: 30CHF Nicolas ayant acheté le pack à triple, combien y-a-t-il de petites cuillères? Rendez votre réponse à la mariée et vous aurez un bisou !
         thumbnail: assets/img/liste/service.jpg.webp
-      - title: Bol pour Kenwood
+      - title: <s>Bol pour Kenwood</s>
         subtitle: "60CHF la Kenwood vient de base avec un seul. Sachant que tout ce qui peut se
         mettre au lave-vaisselle s'y met, et que ça nous arrive de faire de la pâtisserie
         plusieurs fois par jour, c'est clairement sous-doté !"
@@ -306,7 +318,7 @@ en: &DEFAULT_EN
       - title: Service pour les vélos
         subtitle: 240CHF vous permettrez à Nicolas de rouler plus vite, d'être moins en retard, et vous sauverez peut-être notre jeune couple !
         thumbnail: assets/img/liste/bike.jpg.webp
-      - title: Carafe d'eau
+      - title: <s>Carafe d'eau</s>
         subtitle: 60CHF ELLE CONTIENT LE CERVIN GRAVI PAR MARIE WOWOWOOWOWOW.
         thumbnail: assets/img/liste/carafe.webp
       - title: Petits couteaux Victorinox
@@ -346,10 +358,10 @@ en: &DEFAULT_EN
         subtitle: 150CHF histoire qu'on aie la lumière à tout les étages.
         thumbnail: assets/img/liste/lampe.webp
       - title: Tapis
-        subtitle: 150CHF pour partir en voyage de noces si vous prenez l'option volante.
+        subtitle: 150CHF pour partir en voyage de noces si vous nous offrez l'option volante.
         thumbnail: assets/img/liste/tapis.webp
       - title: Canapé
-        subtitle: 1200CHF Marie précise qu'il ne doit pas être au saumon.
+        subtitle: 1000CHF Marie précise qu'il ne doit pas être au saumon.
         thumbnail: assets/img/liste/canape.jpg
       - title: Draps
         subtitle: 1200CHF Pour jouer aux fantômes ! Pas certains qu'ils seront souvent utilisés en conjonction avec la planche à repasser.
