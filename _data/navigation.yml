@@ -21,8 +21,8 @@ en: &DEFAULT_EN
       section: soutenir
     - title: "Nos majors"
       section: team
-    - title: "Souper"
-      section: souper
+    - title: "Remerciements"
+      section: remerciement
 en-US:
   <<: *DEFAULT_EN
 en-CA:

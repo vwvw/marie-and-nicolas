@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-cookie-bite
       - title: "Souper"
         desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la
-        [grande salle de Suchy](https://goo.gl/maps/bowXpKy3cTcCUHoF8). Pour confirmer votre présence, c'est par [ici](#souper)." 
+        [grande salle de Suchy](https://goo.gl/maps/bowXpKy3cTcCUHoF8)."
 
         icon: fa-solid fa-champagne-glasses
 
