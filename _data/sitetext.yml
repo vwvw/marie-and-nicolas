@@ -20,10 +20,10 @@ en: &DEFAULT_EN
     section: dday
     list:
       - title: "Cérémonie"
-        desc: "Notre mariage sera célébré à **14h00** au [Temple de Cossonay](https://goo.gl/maps/r5SEVHG7bSL2fV569)." #<br>Pour le parking, c'est par [ici](parking)!
+        desc: "Notre mariage sera célébré à **14h00** au [Temple de Cossonay](https://goo.gl/maps/r5SEVHG7bSL2fV569). <br>Pour le parking, c'est par [ici](assets/parking_cossonay.pdf) mais privilégiez les transports publics pour l'après-midi, c'est bien plus simple !"
         icon: fas fa-church #find more at https://fontawesome.com/icons
       - title: "Apéro"
-        desc: "Changement de programme, nous ne serons plus à Goumoens, mais allons rester dans cette jolie bourgade qu'est Cossonay ! On continuera la fête à [l'Église Évangélique de Cossonay](https://goo.gl/maps/RSH9s8VigjFpZuuS7). "
+        desc: "**Changement de programme**, nous ne serons plus à Goumoens, mais allons rester dans cette jolie bourgade qu'est Cossonay ! On continuera la fête à [l'Église Évangélique de Cossonay](https://goo.gl/maps/RSH9s8VigjFpZuuS7). "
         icon: fas fa-cookie-bite
       - title: "Souper"
         desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la
@@ -123,7 +123,7 @@ en: &DEFAULT_EN
     text: "C'est bien entourés que nous nous marions !"
     list:
         - title: "Sylvain Kaufmann"
-          position: "Les rumeurs disent qu'il ne reverra jamais sa casserole qui contenait de la cire"
+          position: "Les rumeurs disent qu'il ne reverra jamais sa casserole qui contenait la cire des fairt-parts"
         - title: "Nos parents"
           position: "Un support permanent ces dernières années"
         - title: "Julien Lamour"
@@ -150,13 +150,20 @@ en: &DEFAULT_EN
           position: "Par leur dévouement, nous évitons que Nicolas doive toucher un instrument de la journée, grâce leur soit rendue !"
         - title: "John et Sylvie Geiser, Alexia et Cédric Bourgeois"
           position: "Sans eux, l'apéro serait resté au frigo et Nicolas aurait tout mangé tout seul."
-        - title: "Siméa Huber, Priscilla Huber, Ladina Schindler, Nadège Waber, Julien Schneider"
+        - title: "Siméa Huber, Priscilla Huber, Ladina Schindler, Nadège Waber, Julien Schneider, Katja Mosimann, Francesco Monti, Zoé Despraz, Clara Bussy, Nathalie Gasser"
           position: "Eux, ils savent rendre SERVICE."
         - title: "Mélissa et Olivia Staub, Bastien et Mario Geiser"
           position: "La salle d'apéro aurait été bien vide sans leur aide."
         - title: "Thierry Gentet, Camille et Mark Waldmann"
           position: "Ces habitants de Cossonay ont reconquis leur temple pour le rendre encore plus beau que d'habitude!"
-
+        - title: "Séverine Gilliand, Besa Sahiti, et tout les autres marié·es de l'été"
+          position: "C'est sympa d'avoir une équipe déco mais c'est encore mieux si niveau matériel, l'on ne doit pas se reposer seulement sur les dessins des élèves de la classe de Marie !"
+        - title: "Benoît Aubert, Antoine Bourgeois, et Julien Geiser"
+          position: "On espère qu'ils ne touchent pas de sous du lobby des carossiers et qu'ils parqueront sans encombre !"
+        - title: "Corentin Aubert, Jamina Cossy et Brandon Wirth"
+          position: "Leur mission: rendre invisible notre passage dans le temple de Cossonay"
+        - title: "Ludger Weber"
+          position: "Marie rendra un Badoux heureux, Ludger et ses glaces le fera pour toute la dynastie !"
 
   team:
     title: "Nos majors"
@@ -221,7 +228,7 @@ en: &DEFAULT_EN
       - title: Armoire à habits
         subtitle: 800CHF pour une grande armoire à habits (pas de stock prévu dans celle-ci!).
         thumbnail: assets/img/liste/armoire.webp
-      - title: Table à rallonges
+      - title: <s>Table à rallonges</s>
         subtitle: 400CHF pour accueillir et nourrir dignement nos invités (tant qu'ils ne sont pas trop envahissants :-/).
         thumbnail: assets/img/liste/table.jpg.webp
       - title: <s>Accessoires de salle de bain</s>
@@ -239,7 +246,7 @@ en: &DEFAULT_EN
       - title: LE Lit 
         subtitle: 800CHF pour un lit double avec deux duvets.
         thumbnail: assets/img/liste/lit.webp
-      - title: Linges
+      - title: <s>Linges</s>
         subtitle: 30CHF linges de bain (noter le pluriel, Nicolas n'aura pas d'excuse pour piquer celui de Marie).
         thumbnail: assets/img/liste/linge.jpg.webp
       - title: <s>Râpe</s>
@@ -250,7 +257,7 @@ en: &DEFAULT_EN
         discussions (non, promis Nicolas fera tout son possible pour laisser l'air et
         la patience faire leur travail)."
         thumbnail: assets/img/liste/linge-vaisselle.jpg.webp
-      - title: Moule à cake
+      - title: <s>Moule à cake</s>
         subtitle: 15CHF c'est pas que nous n'en avons pas déjà, mais il en faut plus pour contenir tout ce que la Kenwood peut produire en une journée.
         thumbnail: assets/img/liste/cake.webp
       - title: <s>Kenwood Baker XL</s>
@@ -267,7 +274,7 @@ en: &DEFAULT_EN
       - title: <s>Crêpe Party</s>
         subtitle: 80CHF pour des crêpes un peu moins saines que celles-ci (compris dans le prix, une invitation pour la prochaine Chandeleur).
         thumbnail: assets/img/liste/crepe.jpg.webp
-      - title: Planche à pain
+      - title: <s>Planche à pain</s>
         subtitle: 25CHF en cas de nouvelle pandémie et d'une nouvelle boulangeritte aigüe.
         thumbnail: assets/img/liste/planche-pain.jpg.webp
       - title: <s>Plateau à fromage</s>
@@ -282,7 +289,7 @@ en: &DEFAULT_EN
       - title: <s>Cintres</s>
         subtitle: Plus besoin, le coloc de Nicolas n'avait pas compris que Ikea les vendait par 10 .
         thumbnail: assets/img/liste/cintre.webp
-      - title: Déménagement du piano
+      - title: <s>Déménagement du piano</s>
         subtitle: "400CHF Marie a eu la chance d'hériter du piano de sa grand-maman
         d'Essert-sous-Champvent, il n'est pas léger :-/ (mais vous pouvez contribuer en nature avec en
         prime un récital par année)."
@@ -293,7 +300,7 @@ en: &DEFAULT_EN
         satisfaire d'un matelas de 80cm. Pour le bien de Marie, faites-lui savoir que non
         via ce cadeau."
         thumbnail: assets/img/liste/matelas.jpg.webp
-      - title: Miroir
+      - title: <s>Miroir</s>
         subtitle: 30CHF Nicolas ne se rendra compte de sa présence qu'après 10 ans de mariage, mais il fera plaisir à Marie tous les jours.
         thumbnail: assets/img/liste/miroir.webp
       - title: <s>Verres à vin</s>
@@ -304,7 +311,7 @@ en: &DEFAULT_EN
       - title: <s>Bouilloire</s>
         subtitle: "50CHF ce cadeau peut servir d'indulgence si vous n'avez jamais su conjuguer le verbe bouillir avant de venir au mariage d'une prof de français."
         thumbnail: assets/img/liste/bouilloire.jpg.webp
-      - title: 24 Couverts
+      - title: 30 Couverts
         subtitle: 30CHF Nicolas ayant acheté le pack à triple, combien y-a-t-il de petites cuillères? Rendez votre réponse à la mariée et vous aurez un bisou !
         thumbnail: assets/img/liste/service.jpg.webp
       - title: <s>Bol pour Kenwood</s>
@@ -321,10 +328,10 @@ en: &DEFAULT_EN
       - title: <s>Carafe d'eau</s>
         subtitle: 60CHF ELLE CONTIENT LE CERVIN GRAVI PAR MARIE WOWOWOOWOWOW.
         thumbnail: assets/img/liste/carafe.webp
-      - title: Petits couteaux Victorinox
+      - title: <s>Petits couteaux Victorinox</s>
         subtitle: 10CHF vous pourrez prendre part au grand débat pour savoir lesquels sont les meilleurs, avec ou sans dents ?
         thumbnail: assets/img/liste/victorinox.jpg.webp
-      - title: Tupperware
+      - title: <s>Tupperware</s>
         subtitle: 20CHF car une fois que l'on a cuisiné en grande quantité, il faut bien mettre tout ça au frigo !
         thumbnail: assets/img/liste/tup.jpg.webp
       - title: Standing desk
@@ -339,13 +346,13 @@ en: &DEFAULT_EN
       - title: Arrosoir
         subtitle: 30CHF car les plantes, tout comme notre amour, ont besoin d'être arrosées quotidiennement.
         thumbnail: assets/img/liste/arrosoir.jpg.webp
-      - title: Plateau
+      - title: <s>Plateau</s>
         subtitle: 30CHF avec ou sans le service au lit le dimanche matin.
         thumbnail: assets/img/liste/plateau.jpg.webp
       - title: Set de poêles et casseroles
         subtitle: 100CHF on a déjà un caquelon mais nos mamans ne veulent pas que l'on fasse fondue tous les jours.
         thumbnail: assets/img/liste/casserole.webp
-      - title: Passoire
+      - title: <s>Passoire</s>
         subtitle: 20CHF elle retiendra toujours plus de chose que la mémoire de Nicolas.
         thumbnail: assets/img/liste/passoire.webp
       - title: <s>Étendage</s>
@@ -357,7 +364,7 @@ en: &DEFAULT_EN
       - title: Lampes
         subtitle: 150CHF histoire qu'on aie la lumière à tout les étages.
         thumbnail: assets/img/liste/lampe.webp
-      - title: Tapis
+      - title: <s>Tapis</s>
         subtitle: 150CHF pour partir en voyage de noces si vous nous offrez l'option volante.
         thumbnail: assets/img/liste/tapis.webp
       - title: Canapé
