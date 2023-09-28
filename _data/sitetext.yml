@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-cookie-bite
       - title: "Souper"
         desc: "Pour celles et ceux qui sont conviés au souper, celui-ci aura lieu à la
-        [grande salle de Suchy](https://goo.gl/maps/bowXpKy3cTcCUHoF8)."
+          [grande salle de Suchy](https://goo.gl/maps/bowXpKy3cTcCUHoF8). Le parcours du cortège est par [ici](https://www.google.com/maps/dir/Cossonay/Suchy,+Grande+Salle,+1433+Suchy/@46.7309329,6.5991129,12.96z/data=!4m15!4m14!1m5!1m1!1s0x478c34e67be478a3:0xe0201fff9cd04bdb!2m2!1d6.5071711!2d46.6140944!1m5!1m1!1s0x478dce971d3c9273:0xc657e42e4d4289a8!2m2!1d6.601045!2d46.724777!3e0!5i2?entry=ttu)"
 
         icon: fa-solid fa-champagne-glasses
 
